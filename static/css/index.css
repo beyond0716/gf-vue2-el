@@ -1,0 +1,19 @@
+@charset "UTF-8";
+.el-icon-caret-top:before {
+  content: "\f0d8";
+}
+
+.el-icon-caret-top.is-reverse {
+  transform: translateY(-50%);
+}
+
+.el-icon-search:before {
+  content: "\f002";
+}
+.box{width: 160px;height: 160px;background: url("../img/user2-160x160.jpg") 0 0 no-repeat;}
+
+
+
+
+
+
